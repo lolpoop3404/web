@@ -1,0 +1,36 @@
+html {
+    background-color:rgb(255,75,45);
+}
+
+html {
+    color: black;
+}
+
+header {
+    text-align: left;
+    font-size: 150px;
+    font-style: italic;
+    color: aquamarine;
+}
+
+section {
+    color: bisque;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: wavy;
+    font-weight: 50;
+    font-stretch: ultra-expanded;
+}
+
+article {
+    font-size: 20px;
+    color: rgb(124, 228, 110);
+}
+
+footer {
+    margin-bottom: 0;
+}
+
+body {
+    background-color: black;
+}
