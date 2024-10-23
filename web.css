@@ -28,6 +28,7 @@ article {
 }
 
 footer {
+    margin-block-start: auto;
     margin-bottom: 0;
 }
 
